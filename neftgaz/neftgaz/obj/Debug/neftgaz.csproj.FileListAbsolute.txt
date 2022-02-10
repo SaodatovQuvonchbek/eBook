@@ -1,0 +1,16 @@
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\bin\Debug\neftgaz.exe.config
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\bin\Debug\neftgaz.exe
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\bin\Debug\neftgaz.pdb
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\neftgaz.csproj.AssemblyReference.cache
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\neftgaz.csproj.ResolveComReference.cache
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\neftgaz.Form1.resources
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\neftgaz.Properties.Resources.resources
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\neftgaz.csproj.GenerateResource.cache
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\neftgaz.csproj.CoreCompileInputs.cache
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\neftgaz.exe
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\neftgaz.pdb
+C:\Users\L.E.G.E.N.D.A\source\repos\neftgaz\neftgaz\obj\Debug\neftgaz.Form2.resources
